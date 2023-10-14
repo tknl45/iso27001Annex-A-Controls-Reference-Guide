@@ -51,20 +51,20 @@
 * 6.8 Information security event reporting / 資訊安全事件之通報 --> A5.24 A5.25
 
  ## Physical Controls 實體控制措施
-* 7.1 Physical security perimeter
-* 7.2 Physical entry controls
-* 7.3 Securing offices, rooms and facilities
-* 7.4 Physical security monitoring
-* 7.5 Protecting against physical and environmental threats
-* 7.6 Working in secure areas
-* 7.7 Clear desk and clear screen
-* 7.8 Equipment siting and protection
-* 7.9 Security of assets off-premises
-* 7.10 Storage media – new
-* 7.11 Supporting Utilities
-* 7.12 Cabling Security
-* 7.13 Equipment Maintenance
-* 7.14 Secure Disposal or Re-Use of Equipment
+* 7.1 Physical security perimeter / 資訊安全周界
+* 7.2 Physical entry controls / 實體進入
+* 7.3 Securing offices, rooms and facilities / 保全辦公室、房間及設施
+* 7.4 Physical security monitoring / 實體安全監視
+* 7.5 Protecting against physical and environmental threats / 
+* 7.6 Working in secure areas / 
+* 7.7 Clear desk and clear screen / 
+* 7.8 Equipment siting and protection / 
+* 7.9 Security of assets off-premises / 
+* 7.10 Storage media /  `new`
+* 7.11 Supporting Utilities / 
+* 7.12 Cabling Security / 
+* 7.13 Equipment Maintenance / 
+* 7.14 Secure Disposal or Re-Use of Equipment / 
 
  ## Technology Controls 技術控制措施
 * 8.1 User Endpoint Devices
