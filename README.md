@@ -41,14 +41,14 @@
 * 5.37 Documented operating procedures / 書面紀錄之運作程序
 
  ## People Controls 人員控制措施
-* 6.1 Screening
-* 6.2 Terms and conditions of employment
-* 6.3 Information security awareness, education and training
-* 6.4 Disciplinary process
-* 6.5 Responsibilities after termination or change of employment
-* 6.6 Confidentiality or non-disclosure agreements
-* 6.7 Remote working `new`
-* 6.8 Information security event reporting 
+* 6.1 Screening / 篩選
+* 6.2 Terms and conditions of employment / 聘用條款及條件
+* 6.3 Information security awareness, education and training / 資訊安全認知及教育訓練 (本文7.2 7.3 7.4)
+* 6.4 Disciplinary process / 獎懲過程
+* 6.5 Responsibilities after termination or change of employment / 聘用終止或變更後之責任
+* 6.6 Confidentiality or non-disclosure agreements / 機密性與保密協議
+* 6.7 Remote working / 遠端工作 `new`
+* 6.8 Information security event reporting / 資訊安全事件之通報 --> A5.24 A5.25
 
  ## Physical Controls 實體控制措施
 * 7.1 Physical security perimeter
