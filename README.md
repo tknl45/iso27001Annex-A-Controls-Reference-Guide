@@ -96,80 +96,10 @@
  * 8.27 Secure System Architecture and Engineering Principles / 安全系統架構及工程原則 --> A8.28
  * 8.28 Secure Coding / 安全程式設計 --> A8.29
  * 8.29 Security Testing in Development and Acceptance / 開發及驗收中之安全測試
- * 8.30 Outsourced Development / 委外開發
+ * 8.30 Outsourced Development / 委外開發 -->A5.19
  * 8.31 Separation of Development, Test and Production Environments / 開發、測試及正式環境之區隔
  * 8.32 Change Management / 變更管理
  * 8.33 Test Information / 測試資訊 --> A8.10 A8.11 A8.12
  * 8.34 Protection of Information Systems During Audit Testing / 稽核測試期間資訊系統之保護
 
-## 關係圖表
 
-```mermaid
-flowchart LR
-
-
-A5_5[ 與權責機關的聯繫 ]
-
-A5_8[ 專案管理的資訊安全]
-
-A5_24[ 資訊安全事故管理規劃及準備]
-A5_24 --> A6_8
-A5_25[ 資訊安全事件之評鑑與決策 ]
-A5_25 --> A6_8
-A5_26[ 對資訊安全事故之回應]
-A5_27[ 由資訊安全事故中學習 ]
-A5_28[ 證據之蒐集 ]
-A5_28 --> A5_5
-A5_28 --> A5_6
-
-A6_8[ 資訊安全事件之通報]
-A6_8 --> A5_24 
-A6_8 --> A5_25
-A7_1[ 資訊安全周界]
-A7_2[ 實體進入]
-A7_3[ 保全辦公室、房間及設施]
-A7_4[ 實體安全監視 ]
-A7_5[ 防範實體與環境威脅]
-A7_5 --> A5_29 
-A7_5 --> A5_30
-A7_6[ 於安全區域內工作]
-A7_6 --> A7_1
-
-
-A7_8[ 設備安置與保護]
-A7_9[ 場外資產安全]
-A7_10[ 儲存媒體 ]
-
-A7_14[ 設備汰除或重新使用之保全]
-
-A8_7[ 防範惡意軟體]
-A8_8[ 技術脆弱性管理]
-
-A8_26[ 應用系統安全要求事項]
-A8_27[ 安全系統架構及工程原則]
-A8_28[ 安全程式設計 ]
-A8_29[ 開發及驗收中之安全測試]
-
-A8_33[ 測試資訊 ]
-
-
-
-A7_9 --> A7_8
-A7_14 --> A7_10
-
-
-A8_7 --> A5_7
-A8_8 --> A5_7
-
-A8_15 --> A8_16
-A8_15 --> A8_17
-
-A8_26 --> A8_27
-A8_27 --> A8_28
-A8_28 --> A8_29
-
-
-A8_33 --> A8_10
-A8_33-->A8_11
-A8_33-->A8_12
-```
