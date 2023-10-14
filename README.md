@@ -67,16 +67,37 @@
 * 7.14 Secure Disposal or Re-Use of Equipment / 設備汰除或重新使用之保全 --> A7.10
 
  ## Technology Controls 技術控制措施
-* 8.1 User Endpoint Devices / 使用者端點裝置
-* 8.2 Privileged Access Rights / 特殊存取權限
-* 8.3 Information Access Restriction / 資訊存取控制
-* 8.4 Access To Source Code / 對原始碼之存取
-* 8.5 Secure Authentication / 安全鑑別
-* 8.6 Capacity Management / 容量管理
-* 8.7 Protection Against Malware / 防範惡意軟體 --> A5.7
-* 8.8 Management of Technical Vulnerabilities / 技術脆弱性管理 --> A5.7
-* 8.9 Configuration Management  / 組態設定 `new`
-* 8.10 Information Deletion / 資訊刪除
-* 8.11 Data Masking / 資料遮蔽
-* 8.12 Data Leakage Prevention / 資料洩漏預防
-* 
+ * 8.1 User Endpoint Devices / 使用者端點裝置
+ * 8.2 Privileged Access Rights / 特殊存取權限
+ * 8.3 Information Access Restriction / 資訊存取控制
+ * 8.4 Access To Source Code / 對原始碼之存取
+ * 8.5 Secure Authentication / 安全鑑別
+ * 8.6 Capacity Management / 容量管理
+ * 8.7 Protection Against Malware / 防範惡意軟體 --> A5.7
+ * 8.8 Management of Technical Vulnerabilities / 技術脆弱性管理 --> A5.7
+ * 8.9 Configuration Management  / 組態設定 `new`
+ * 8.10 Information Deletion / 資訊刪除
+ * 8.11 Data Masking / 資料遮蔽
+ * 8.12 Data Leakage Prevention / 資料洩漏預防
+ * 8.13 Information Backup / 資訊備份
+ * 8.14 Redundancy of Information Processing Facilities / 資訊處理設施之多備
+ * 8.15 Logging / 存錄 --> A8.16 A8.17
+ * 8.16 Monitoring Activities / 監視活動
+ * 8.17 Clock-Synchronisation / 鐘訊同步
+ * 8.18 Use of Privileged Utility Programs / 具特殊權限公用程式之使用
+ * 8.19 Installation of Software on Operational Systems / 運作鐘系統之軟體安裝
+ * 8.20 Networks Security / 網路安全
+ * 8.21 Security of Network Services / 網擄服務之安全
+ * 8.22 Segregation of Networks / 網路區隔
+ * 8.23 Web Filtering / 網頁過濾
+ * 8.24 Use of Cryptography / 密碼技術之使用
+ * 8.25 Secure Development Life Cycle / 安全開發周期
+ * 8.26 Application Security Requirements / 應用系統安全要求事項 --> A8.27
+ * 8.27 Secure System Architecture and Engineering Principles / 安全系統架構及工程原則 --> A8.28
+ * 8.28 Secure Coding / 安全程式設計 --> A8.29
+ * 8.29 Security Testing in Development and Acceptance / 開發及驗收中之安全測試
+ * 8.30 Outsourced Development / 委外開發
+ * 8.31 Separation of Development, Test and Production Environments / 開發、測試及正式環境之區隔
+ * 8.32 Change Management / 變更管理
+ * 8.33 Test Information / 測試資訊 --> A8.10 A8.11 A8.12
+ * 8.34 Protection of Information Systems During Audit Testing / 稽核測試期間資訊系統之保護
