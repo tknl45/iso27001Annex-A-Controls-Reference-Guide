@@ -54,17 +54,17 @@
 * 7.1 Physical security perimeter / 資訊安全周界
 * 7.2 Physical entry controls / 實體進入
 * 7.3 Securing offices, rooms and facilities / 保全辦公室、房間及設施
-* 7.4 Physical security monitoring / 實體安全監視
-* 7.5 Protecting against physical and environmental threats / 
-* 7.6 Working in secure areas / 
-* 7.7 Clear desk and clear screen / 
-* 7.8 Equipment siting and protection / 
-* 7.9 Security of assets off-premises / 
-* 7.10 Storage media /  `new`
-* 7.11 Supporting Utilities / 
-* 7.12 Cabling Security / 
-* 7.13 Equipment Maintenance / 
-* 7.14 Secure Disposal or Re-Use of Equipment / 
+* 7.4 Physical security monitoring / 實體安全監視 `new`
+* 7.5 Protecting against physical and environmental threats / 防範實體與環境威脅 --> A5.29 A5.30
+* 7.6 Working in secure areas / 於安全區域內工作 --> A7.1
+* 7.7 Clear desk and clear screen / 桌面及螢幕淨空
+* 7.8 Equipment siting and protection / 設備安置與保護
+* 7.9 Security of assets off-premises / 場外資產安全 --> A7.8
+* 7.10 Storage media / 儲存媒體 
+* 7.11 Supporting Utilities / 支援之共用服務事業
+* 7.12 Cabling Security / 佈纜安全
+* 7.13 Equipment Maintenance / 設備維護
+* 7.14 Secure Disposal or Re-Use of Equipment / 設備汰除或重新使用之保全 --> A7.10
 
  ## Technology Controls 技術控制措施
 * 8.1 User Endpoint Devices
