@@ -107,8 +107,6 @@
 ```mermaid
 flowchart LR
 
-flowchart LR
-
 
 A5_5[ 與權責機關的聯繫 ]
 
