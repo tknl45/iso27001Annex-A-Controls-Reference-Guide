@@ -67,15 +67,16 @@
 * 7.14 Secure Disposal or Re-Use of Equipment / 設備汰除或重新使用之保全 --> A7.10
 
  ## Technology Controls 技術控制措施
-* 8.1 User Endpoint Devices
-* 8.2 Privileged Access Rights
-* 8.3 Information Access Restriction
-* 8.4 Access To Source Code
-* 8.5 Secure Authentication
-* 8.6 Capacity Management
-* 8.7 Protection Against Malware
-* 8.8 Management of Technical Vulnerabilities
-* 8.9 Configuration Management 
-* 8.10 Information Deletion
-* 8.11 Data Masking
-* 8.12 Data Leakage Prevention
+* 8.1 User Endpoint Devices / 使用者端點裝置
+* 8.2 Privileged Access Rights / 特殊存取權限
+* 8.3 Information Access Restriction / 資訊存取控制
+* 8.4 Access To Source Code / 對原始碼之存取
+* 8.5 Secure Authentication / 安全鑑別
+* 8.6 Capacity Management / 容量管理
+* 8.7 Protection Against Malware / 防範惡意軟體 --> A5.7
+* 8.8 Management of Technical Vulnerabilities / 技術脆弱性管理 --> A5.7
+* 8.9 Configuration Management  / 組態設定 `new`
+* 8.10 Information Deletion / 資訊刪除
+* 8.11 Data Masking / 資料遮蔽
+* 8.12 Data Leakage Prevention / 資料洩漏預防
+* 
