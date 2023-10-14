@@ -6,7 +6,7 @@
 * 5.4 Management responsibilities
 * 5.5 Contact with authorities
 * 5.6 Contact with special interest groups
-* 5.7 Threat intelligence – new
+* 5.7 Threat intelligence `new`
 * 5.8 Information security in project management
 * 5.9 Inventory of information and other associated assets `change`
 * 5.10 Acceptable use of information and other associated assets `change`
@@ -16,8 +16,8 @@
 * 5.14 Information transfer
 * 5.15 Access control
 * 5.16 Identity management
-* 5.17 Authentication information – new
-* 5.18 Access rights – change
+* 5.17 Authentication information `new`
+* 5.18 Access rights `change`
 * 5.19 Information security in supplier relationships
 * 5.20 Addressing information security within supplier agreements
 * 5.21 Managing information security in the ICT supply chain `new`
